@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+Welcome to my GitHub page!
+</h1>
 
-<!--
-**Martexte/martexte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+About Me
+</h2>
+	<ul>
+		<li>Full stack web developer (mainly using the <em>CodeIgniter</em> framework)
+		<li>A believer in <em>libre</em> (freedom) software and technologies
+		<li>Trying to follow as many philosophies as possible (UNIX, KISS etc.)
+	</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
